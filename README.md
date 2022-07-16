@@ -1,5 +1,5 @@
-<img alt="app-development-with-swift-level-1" width="700px" src="https://user-images.githubusercontent.com/72808071/179375023-5a900755-cea6-43b0-a9a3-4572dad92d50.jpg" />
-😁🚀
+![greeting](https://user-images.githubusercontent.com/72808071/179375288-c5206849-4432-4ab4-bc9c-75486e1335f6.png)
+#### and l'Il take a seconds of your life to introduce myself😁🚀
 
 
 - 🌱 I’m currently learning iOS Development and falling love with [<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="25" />](https://www.swift.org)
