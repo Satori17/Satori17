@@ -1,12 +1,12 @@
 ![greeting](https://user-images.githubusercontent.com/72808071/179375288-c5206849-4432-4ab4-bc9c-75486e1335f6.png)
-#### and l'Il take a seconds of your life to introduce myself😁🚀
+### and l'Il take a seconds of your life to introduce myself😁🚀
 
-
-- 🌱 I’m currently learning iOS Development and falling love with [<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="25" />](https://www.swift.org)
-- 🤔 I’m looking for help with every advice that you want to give me
+- 🌱 ~~I’m currently learning iOS Development and falling love with [<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="23" />](https://www.swift.org)~~
+- 🚀 I'm working as an iOS Developer and still loving every part of it
+- 🤔 I’m looking for a wizard who'll tell me how much time SwiftUI needs to integrate into iOS development fully😁
 - 💬 Ask me about Swift, iOS and everything that is related to &nbsp; [<img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" height="23" />](https://www.apple.com) &nbsp; and their devices🍏
 - 📫 You can email me anytime at: s.khitaridze@gmail.com
-- ⚡ Fun fact: Satori means sudden enlightenment and a state of consciousness attained by intuitive illumination😁
+- ⚡ Fun fact: Satori means sudden enlightenment and a state of consciousness attained by intuitive illumination ⚡️
 
 
 ## Achievements
