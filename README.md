@@ -4,7 +4,6 @@
 - 🌱 ~~I’m currently learning iOS Development and falling love with [<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="23" />](https://www.swift.org)~~
 - 🚀 I'm working as an iOS Developer and still loving every part of it
 - 🤔 I’m looking for a wizard who'll tell me how much time SwiftUI needs to integrate into iOS development fully😁
-- 💬 Ask me about Swift, iOS and everything that is related to &nbsp; [<img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" height="23" />](https://www.apple.com) &nbsp; and their devices🍏
 - 📫 You can email me anytime at: s.khitaridze@gmail.com
 - ⚡ Fun fact: Satori means sudden enlightenment and a state of consciousness attained by intuitive illumination ⚡️
 
